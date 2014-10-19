@@ -60,7 +60,7 @@ body {
 }
 
 
-#loading {
+.loading {
   z-index: 999;
   position: absolute;
   top: 65px;
